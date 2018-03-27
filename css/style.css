@@ -14,5 +14,12 @@ a:hover {
     text-Decoration: none !important; 
 }
 
+@media (max-width: 980px) {
+    img {
+      margin-bottom: 10px;
+    }
+  }
+
+
 
 
